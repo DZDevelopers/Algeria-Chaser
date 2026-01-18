@@ -1,5 +1,6 @@
 # Algeria-Chaser
 A simple LED chaser with the algeria map design
+
 The Schematic
 
 <img width="724" height="546" alt="Chaser-Symatic" src="https://github.com/user-attachments/assets/682db680-d339-4801-b8da-81f9bed83724" />
